@@ -1,0 +1,1 @@
+Bigger model can not be upload on github you can install them from official github repo
